@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Doge5055X
-- 👀 I’m interested in doing dumb stuff
-- 🌱 I’m currently learning java
-Ok.
+- 👀 I’m interested in random yet fun things.
+- 🌱 I’m currently learning python.
+
